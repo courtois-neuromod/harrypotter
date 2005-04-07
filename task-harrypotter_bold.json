@@ -17,7 +17,6 @@
   "EffectiveEchoSpacing": 0.000560011,
   "FlipAngle": 52,
   "ImageComments": "Unaliased_MB4_PE3_LB",
-  "ImageOrientationPatientDICOM": [0.996403, 0.0661001, 0.0530324, -0.0396713, 0.916808, -0.397352],
   "ImageType": [
     "ORIGINAL",
     "PRIMARY",
@@ -54,20 +53,12 @@
   "ScanningSequence": "EP",
   "SequenceName": "epfid2d1_104",
   "SequenceVariant": "SK_SS",
-  "ShimSetting": [645, -7173, -8867, 649, 118, 58, -20, -11],
   "SliceThickness": 2,
   "SoftwareVersions": "syngo_MR_E11",
   "SpacingBetweenSlices": 2,
   "StationName": "MRC35049",
   "TaskName": "TODO: full task name for harrypotter",
   "TotalReadoutTime": 0.0576811,
-  "TxRefAmp": 243.242,
-  "dcmmeta_affine": [
-    [-1.9928053617477417, -0.07934268563985825, 0.14977100491523743, 106.76417541503906],
-    [-0.1322001963853836, 1.8336169719696045, -0.7876368761062622, -49.40777587890625],
-    [0.10606471449136734, 0.7947034239768982, 1.8322654962539673, -77.85126495361328],
-    [0.0, 0.0, 0.0, 1.0]
-],
   "dcmmeta_reorient_transform": [
     [0.0, -1.0, 0.0, 103.0],
     [1.0, 0.0, 0.0, 0.0],
