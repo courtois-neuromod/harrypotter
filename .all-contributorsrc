@@ -1,5 +1,20 @@
 {
   "files": [
     "README"
-  ]
+  ],
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "pravishsainath",
+      "name": "Pravish Sainath",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13696562?v=4",
+      "profile": "https://github.com/pravishsainath",
+      "contributions": [
+        "data"
+      ]
+    }
+  ],
+  "projectName": "harrypotter",
+  "projectOwner": "courtois-neuromod"
 }
