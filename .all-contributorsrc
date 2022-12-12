@@ -1,5 +1,20 @@
 {
   "files": [
     "README"
-  ]
+  ],
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "sangfrois",
+      "name": "François Lespinasse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38385719?v=4",
+      "profile": "https://github.com/sangfrois",
+      "contributions": [
+        "data"
+      ]
+    }
+  ],
+  "projectName": "harrypotter",
+  "projectOwner": "courtois-neuromod"
 }
