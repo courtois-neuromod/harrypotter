@@ -21,5 +21,17 @@ Courtois NeuroMod data are [freely shared with the scientific community](https:/
 
 ## Contributors
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/lwehbe"><img src="https://avatars.githubusercontent.com/u/8173821?v=4?s=100" width="100px;" alt="lwehbe"/><br /><sub><b>lwehbe</b></sub></a><br /><a href="#design-lwehbe" title="Design">🎨</a> <a href="#ideas-lwehbe" title="Ideas, Planning, & Feedback">🤔</a></td>
+    </tr>
+  </tbody>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
