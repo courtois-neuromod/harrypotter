@@ -25,9 +25,9 @@
       "contributions": [
         "data",
         "projectManagement"
-        ]
-      },
-      {
+      ]
+    },
+    {
       "login": "mtoneva",
       "name": "Mariya Toneva",
       "avatar_url": "https://avatars.githubusercontent.com/u/17126883?v=4",
@@ -42,6 +42,15 @@
       "name": "Pravish Sainath",
       "avatar_url": "https://avatars.githubusercontent.com/u/13696562?v=4",
       "profile": "https://github.com/pravishsainath",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "sangfrois",
+      "name": "François Lespinasse",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38385719?v=4",
+      "profile": "https://github.com/sangfrois",
       "contributions": [
         "data"
       ]
