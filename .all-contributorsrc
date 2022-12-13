@@ -25,6 +25,16 @@
       "contributions": [
         "data",
         "projectManagement"
+        ]
+      },
+      {
+      "login": "mtoneva",
+      "name": "Mariya Toneva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17126883?v=4",
+      "profile": "https://github.com/mtoneva",
+      "contributions": [
+        "design",
+        "ideas"
       ]
     }
   ],
