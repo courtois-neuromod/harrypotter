@@ -8,7 +8,7 @@
   "DeviceSerialNumber": "1811A-0001F15",
   "EDA": {
     "Description": "continuous electrodermal measurement",
-    "Units": "microsiemens"
+    "Units": "AU"
   },
   "PPG": {
     "Description": "continuous pulse measurement",
