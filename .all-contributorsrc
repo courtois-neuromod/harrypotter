@@ -76,8 +76,18 @@
         "data",
         "review"
       ]
+    },
+    {
+      "login": "me-pic",
+      "name": "Marie-Eve Picard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77584086?v=4",
+      "profile": "https://github.com/me-pic",
+      "contributions": [
+        "data"
+      ]
     }
   ],
   "projectName": "harrypotter",
-  "projectOwner": "courtois-neuromod"
+  "projectOwner": "courtois-neuromod",
+  "commitType": "docs"
 }
