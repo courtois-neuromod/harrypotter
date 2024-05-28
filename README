@@ -8,11 +8,11 @@ Participants read a chapter of Harry-Potter word-by-word at a 2Hz pace, while fu
 This subdataset is organized following the [brain imaging data structure (BIDS)](https://bids.neuroimaging.io/) (including extensions in development) and contains:
 - [x] [raw neuroimaging data](https://docs.cneuromod.ca/en/latest/MRI.html#functional-sequences)
 - [x] behavioral variables in event files
-- [ ] physiological data
-  - [ ] ECG
-  - [ ] pulse (photoplethysmography)
-  - [ ] respiration
-  - [ ] skin conductance (electro-dermal activity)
+- [x] physiological data
+  - [x] ECG
+  - [x] pulse (photoplethysmography)
+  - [x] respiration
+  - [x] skin conductance (electro-dermal activity)
 
 *(unchecked are collected data which have not yet been integrated in the dataset)*
 
@@ -26,13 +26,16 @@ Courtois NeuroMod data are [freely shared with the scientific community](https:/
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/FrancoisPgm"><img src="https://avatars.githubusercontent.com/u/35327799?v=4?s=100" width="100px;" alt="François Paugam"/><br /><sub><b>François Paugam</b></sub></a><br /><a href="#code-FrancoisPgm" title="Code">💻</a> <a href="#design-FrancoisPgm" title="Design">🎨</a> <a href="#test-FrancoisPgm" title="Tests">⚠️</a> <a href="#data-FrancoisPgm" title="Data">🔣</a></td>
-      <td align="center"><a href="https://github.com/julieaboyle1"><img src="https://avatars.githubusercontent.com/u/39348727?v=4?s=100" width="100px;" alt="jboyle"/><br /><sub><b>jboyle</b></sub></a><br /><a href="#data-julieaboyle1" title="Data">🔣</a> <a href="#projectManagement-julieaboyle1" title="Project Management">📆</a></td>
-      <td align="center"><a href="https://github.com/mtoneva"><img src="https://avatars.githubusercontent.com/u/17126883?v=4?s=100" width="100px;" alt="Mariya Toneva"/><br /><sub><b>Mariya Toneva</b></sub></a><br /><a href="#design-mtoneva" title="Design">🎨</a> <a href="#ideas-mtoneva" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center"><a href="https://github.com/lwehbe"><img src="https://avatars.githubusercontent.com/u/8173821?v=4?s=100" width="100px;" alt="lwehbe"/><br /><sub><b>lwehbe</b></sub></a><br /><a href="#design-lwehbe" title="Design">🎨</a> <a href="#ideas-lwehbe" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center"><a href="https://github.com/pravishsainath"><img src="https://avatars.githubusercontent.com/u/13696562?v=4?s=100" width="100px;" alt="Pravish Sainath"/><br /><sub><b>Pravish Sainath</b></sub></a><br /><a href="#data-pravishsainath" title="Data">🔣</a></td>
-      <td align="center"><a href="https://github.com/sangfrois"><img src="https://avatars.githubusercontent.com/u/38385719?v=4?s=100" width="100px;" alt="François Lespinasse"/><br /><sub><b>François Lespinasse</b></sub></a><br /><a href="#data-sangfrois" title="Data">🔣</a></td>
-      <td align="center"><a href="https://github.com/bpinsard"><img src="https://avatars.githubusercontent.com/u/1155388?v=4?s=100" width="100px;" alt="Basile"/><br /><sub><b>Basile</b></sub></a><br /><a href="#design-bpinsard" title="Design">🎨</a> <a href="#code-bpinsard" title="Code">💻</a> <a href="#data-bpinsard" title="Data">🔣</a> <a href="#review-bpinsard" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/FrancoisPgm"><img src="https://avatars.githubusercontent.com/u/35327799?v=4?s=100" width="100px;" alt="François Paugam"/><br /><sub><b>François Paugam</b></sub></a><br /><a href="#code-FrancoisPgm" title="Code">💻</a> <a href="#design-FrancoisPgm" title="Design">🎨</a> <a href="#test-FrancoisPgm" title="Tests">⚠️</a> <a href="#data-FrancoisPgm" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/julieaboyle1"><img src="https://avatars.githubusercontent.com/u/39348727?v=4?s=100" width="100px;" alt="jboyle"/><br /><sub><b>jboyle</b></sub></a><br /><a href="#data-julieaboyle1" title="Data">🔣</a> <a href="#projectManagement-julieaboyle1" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/mtoneva"><img src="https://avatars.githubusercontent.com/u/17126883?v=4?s=100" width="100px;" alt="Mariya Toneva"/><br /><sub><b>Mariya Toneva</b></sub></a><br /><a href="#design-mtoneva" title="Design">🎨</a> <a href="#ideas-mtoneva" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/lwehbe"><img src="https://avatars.githubusercontent.com/u/8173821?v=4?s=100" width="100px;" alt="lwehbe"/><br /><sub><b>lwehbe</b></sub></a><br /><a href="#design-lwehbe" title="Design">🎨</a> <a href="#ideas-lwehbe" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pravishsainath"><img src="https://avatars.githubusercontent.com/u/13696562?v=4?s=100" width="100px;" alt="Pravish Sainath"/><br /><sub><b>Pravish Sainath</b></sub></a><br /><a href="#data-pravishsainath" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/sangfrois"><img src="https://avatars.githubusercontent.com/u/38385719?v=4?s=100" width="100px;" alt="François Lespinasse"/><br /><sub><b>François Lespinasse</b></sub></a><br /><a href="#data-sangfrois" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/bpinsard"><img src="https://avatars.githubusercontent.com/u/1155388?v=4?s=100" width="100px;" alt="Basile"/><br /><sub><b>Basile</b></sub></a><br /><a href="#design-bpinsard" title="Design">🎨</a> <a href="#code-bpinsard" title="Code">💻</a> <a href="#data-bpinsard" title="Data">🔣</a> <a href="#review-bpinsard" title="Reviewed Pull Requests">👀</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/me-pic"><img src="https://avatars.githubusercontent.com/u/77584086?v=4?s=100" width="100px;" alt="Marie-Eve Picard"/><br /><sub><b>Marie-Eve Picard</b></sub></a><br /><a href="#data-me-pic" title="Data">🔣</a></td>
     </tr>
   </tbody>
 </table>

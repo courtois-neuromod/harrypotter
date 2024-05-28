@@ -3,4 +3,4 @@
 [datalad "dataset"]
 	id = d58c7aa5-3e9f-48bf-9cb9-d55057f460fd
 [datalad "get"]
-	subdataset-source-candidate-620cneuromodhttp = https://github.com/courtois-neuromod/{name}.git
+	subdataset-source-candidate-620cneuromodhttp = https://github.com/courtois-neuromod/harrypotter.{name}.git
